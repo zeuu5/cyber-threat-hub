@@ -1,42 +1,42 @@
 [
     {
         "id": "Unknown CVE",
-        "summary": "Rclone: Unauthenticated options/set allows runtime auth bypass, leading to sensitive operations and command execution"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Nuclei: Local File Read via require() Module Loader Bypass"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "goshs is Missing Write Protection for Parametric Data Values"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Vikunja has iCalendar Property Injection via CRLF in CalDAV Task Output"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Vikunja vulnerable to Privilege Escalation via Project Reparenting"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "OpenStack Ironic: Pre-Validation Checksum Calculation allows Denial of Service (DoS) via Infinite Block Devices"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "OpenStack Ironic is Vulnerable to Inclusion of Functionality from Untrusted Control Sphere"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "shopper/framework: Race condition on Discount.usage_limit allows silent over-redemption"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "shopper/framework: Authorization bypass in multiple Livewire admin components"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Filament multi-factor authentication (app) recovery codes can be used multiple times"
+        "summary": "No summary available"
     }
 ]
