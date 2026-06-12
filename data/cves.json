@@ -1,23 +1,23 @@
 [
     {
         "id": "Unknown CVE",
-        "summary": "MLflow authenticated users can enumerate any registered model versions due to lack of per-model permissions checks"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "LangGraph has NoSQL parameter injection in MongoDBSaver, allowing cross-tenant state access"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Firefly II has Stored XSS in Audit Log Entry view via piggy bank name (ale.twig)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Go-Attestation: Hash injection into trusted measurement list via unskipped SignatureHeaderSize vendor bytes in parseEfiSignatureList()"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Chisel has an ACL Bypass via Post-Handshake SSH Channel ExtraData Injection"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
