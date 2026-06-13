@@ -1,19 +1,19 @@
 [
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in vite-config-react (npm)"
+        "summary": "Sensitive data could be written to mongod.log"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in vite-config-optimizer (npm)"
+        "summary": "MariaDB server has unsafe parameter handling in `wsrep_notify_cmd`"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in ecto_module (npm)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in beamz (npm)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
