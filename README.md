@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-06-14 14:19:51.901591+00:00 UTC
+Last Updated: 2026-06-14 19:47:04.684943+00:00 UTC
 
 ## Latest CVEs
 
@@ -9,11 +9,11 @@ Last Updated: 2026-06-14 14:19:51.901591+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Malicious code in llmgenerator (PyPI)
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Malicious code in bash8 (PyPI)
-- **Unknown CVE** : Malicious code in ltidiconf (npm)
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 

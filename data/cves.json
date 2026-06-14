@@ -21,7 +21,11 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in llmgenerator (PyPI)"
+        "summary": "No summary available"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
@@ -33,10 +37,6 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in bash8 (PyPI)"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "Malicious code in ltidiconf (npm)"
+        "summary": "No summary available"
     }
 ]
