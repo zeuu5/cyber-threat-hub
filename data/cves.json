@@ -21,22 +21,22 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "FTP PASV SSRF, ftpcp() does not use actual peer address, trusts server-supplied PASV host address"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "tarfile.data_filter path traversal bypass allows writing outside the extraction directory"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "The expat and elementtree parsers use insufficient entropy for XML hash-flooding protection"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Potential DoS via quadratic complexity in unicodedata.normalize()"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "CPython >3.11 Insecure Input Validation resulting in privilege escalation"
     }
 ]

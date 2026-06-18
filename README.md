@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-06-18 04:46:49.287618+00:00 UTC
+Last Updated: 2026-06-18 10:41:18.776569+00:00 UTC
 
 ## Latest CVEs
 
@@ -9,11 +9,11 @@ Last Updated: 2026-06-18 04:46:49.287618+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** : FTP PASV SSRF, ftpcp() does not use actual peer address, trusts server-supplied PASV host address
+- **Unknown CVE** : tarfile.data_filter path traversal bypass allows writing outside the extraction directory
+- **Unknown CVE** : The expat and elementtree parsers use insufficient entropy for XML hash-flooding protection
+- **Unknown CVE** : Potential DoS via quadratic complexity in unicodedata.normalize()
+- **Unknown CVE** : CPython >3.11 Insecure Input Validation resulting in privilege escalation
 
 ## Latest Cybersecurity News
 
