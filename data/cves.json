@@ -1,11 +1,11 @@
 [
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in parket-slot (npm)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in parket-helper (npm)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
@@ -17,26 +17,26 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "OpenFGA Improper Policy Enforcement"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "tract-nnef: integer overflow in NNEF `.dat` tensor parser yields an out-of-bounds read on model load"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "PGHoard: Password written to debug log"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Pipecat: Telephony WebSocket `/ws` Unauthenticated Call-Control Abuse via Attacker-Supplied Call SID"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "opentelemetry-collector-contrib: githubreceiver silently ignores configured required_headers authentication"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Kirby: `pages.access` permission is not checked in the `site/find` REST API route"
+        "summary": "No summary available"
     }
 ]
