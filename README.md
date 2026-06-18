@@ -1,27 +1,27 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-06-18 10:41:18.776569+00:00 UTC
+Last Updated: 2026-06-18 15:42:42.039603+00:00 UTC
 
 ## Latest CVEs
 
+- **Unknown CVE** : Malicious code in parket-slot (npm)
+- **Unknown CVE** : Malicious code in parket-helper (npm)
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : FTP PASV SSRF, ftpcp() does not use actual peer address, trusts server-supplied PASV host address
-- **Unknown CVE** : tarfile.data_filter path traversal bypass allows writing outside the extraction directory
-- **Unknown CVE** : The expat and elementtree parsers use insufficient entropy for XML hash-flooding protection
-- **Unknown CVE** : Potential DoS via quadratic complexity in unicodedata.normalize()
-- **Unknown CVE** : CPython >3.11 Insecure Input Validation resulting in privilege escalation
+- **Unknown CVE** : OpenFGA Improper Policy Enforcement
+- **Unknown CVE** : tract-nnef: integer overflow in NNEF `.dat` tensor parser yields an out-of-bounds read on model load
+- **Unknown CVE** : PGHoard: Password written to debug log
+- **Unknown CVE** : Pipecat: Telephony WebSocket `/ws` Unauthenticated Call-Control Abuse via Attacker-Supplied Call SID
+- **Unknown CVE** : opentelemetry-collector-contrib: githubreceiver silently ignores configured required_headers authentication
+- **Unknown CVE** : Kirby: `pages.access` permission is not checked in the `site/find` REST API route
 
 ## Latest Cybersecurity News
 
-- [Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments](https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html)
-- [Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development](https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html)
-- [Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline](https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html)
-- [Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization](https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html)
-- [Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats](https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html)
+- [Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2](https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html)
+- [INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023](https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html)
+- [The Scripts on Your Checkout Page Are Now a PCI DSS Problem](https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html)
+- [DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic](https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html)
+- [Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network](https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html)
 
 ---
 

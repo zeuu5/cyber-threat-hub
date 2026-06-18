@@ -1,7 +1,11 @@
 [
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Malicious code in parket-slot (npm)"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "Malicious code in parket-helper (npm)"
     },
     {
         "id": "Unknown CVE",
@@ -13,30 +17,26 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "OpenFGA Improper Policy Enforcement"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "tract-nnef: integer overflow in NNEF `.dat` tensor parser yields an out-of-bounds read on model load"
     },
     {
         "id": "Unknown CVE",
-        "summary": "FTP PASV SSRF, ftpcp() does not use actual peer address, trusts server-supplied PASV host address"
+        "summary": "PGHoard: Password written to debug log"
     },
     {
         "id": "Unknown CVE",
-        "summary": "tarfile.data_filter path traversal bypass allows writing outside the extraction directory"
+        "summary": "Pipecat: Telephony WebSocket `/ws` Unauthenticated Call-Control Abuse via Attacker-Supplied Call SID"
     },
     {
         "id": "Unknown CVE",
-        "summary": "The expat and elementtree parsers use insufficient entropy for XML hash-flooding protection"
+        "summary": "opentelemetry-collector-contrib: githubreceiver silently ignores configured required_headers authentication"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Potential DoS via quadratic complexity in unicodedata.normalize()"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "CPython >3.11 Insecure Input Validation resulting in privilege escalation"
+        "summary": "Kirby: `pages.access` permission is not checked in the `site/find` REST API route"
     }
 ]
