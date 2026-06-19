@@ -1,42 +1,42 @@
 [
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in ts-big-ecro (npm)"
+        "summary": "Stack-buffer-overflow in wc_Shake256_Final"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in ts-ecro (npm)"
+        "summary": "undici WebSocket client vulnerable to denial of service via fragment count bypass"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in new-ecro (npm)"
+        "summary": "undici vulnerable to HTTP header injection via Set-Cookie percent-decoding"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-buffer-overflow in bit_read_BB"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "undici vulnerable to cross-origin request routing via SOCKS5 proxy pool reuse"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-buffer-overflow in DecodeBasicOcspResponse"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "undici vulnerable to HTTP response queue poisoning via keep-alive socket reuse"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-buffer-overflow in dynapi_set_helper"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-double-free in dwg_free_common_entity_data"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-buffer-overflow in dwg_encode_VERTEX_2D"
     }
 ]
