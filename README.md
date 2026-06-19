@@ -1,27 +1,27 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-06-19 15:35:22.828187+00:00 UTC
+Last Updated: 2026-06-19 19:57:30.040561+00:00 UTC
 
 ## Latest CVEs
 
-- **Unknown CVE** : Stack-buffer-overflow in wc_Shake256_Final
-- **Unknown CVE** : undici WebSocket client vulnerable to denial of service via fragment count bypass
-- **Unknown CVE** : undici vulnerable to HTTP header injection via Set-Cookie percent-decoding
-- **Unknown CVE** : Heap-buffer-overflow in bit_read_BB
-- **Unknown CVE** : undici vulnerable to cross-origin request routing via SOCKS5 proxy pool reuse
-- **Unknown CVE** : Heap-buffer-overflow in DecodeBasicOcspResponse
-- **Unknown CVE** : undici vulnerable to HTTP response queue poisoning via keep-alive socket reuse
-- **Unknown CVE** : Heap-buffer-overflow in dynapi_set_helper
-- **Unknown CVE** : Heap-double-free in dwg_free_common_entity_data
-- **Unknown CVE** : Heap-buffer-overflow in dwg_encode_VERTEX_2D
+- **Unknown CVE** : Oj: Use-After-Free in Oj::Parser SAJ Callback via Input Mutation
+- **Unknown CVE** : Oj: Use-After-Free in Oj::Doc Iterators via Reentrant Close
+- **Unknown CVE** : Oj: Heap Buffer Overflow in Oj.dump Exception Serialization via Large Indent
+- **Unknown CVE** : parse-server: Stored XSS via non-standard file extension bypassing file upload extension blocklist
+- **Unknown CVE** : Oj: Stack Buffer Overflow in Oj::Doc#each_child via Deeply Nested Input
+- **Unknown CVE** : jupyterlab-git excluded_paths Case-Sensitivity Bypass Allows Reading Excluded Directories
+- **Unknown CVE** : jupyterlab-git extension: Stored XSS leading to RCE
+- **Unknown CVE** : Oj: intern.c form_attr (uninitialized stack read)
+- **Unknown CVE** : Stanza: Remote Code Execution via Unsafe Pickle Deserialization in Model Loaders
+- **Unknown CVE** : Home Assistant: Konnected alarm-panel switch state and zone topology disclosed to unauthenticated actors on the LAN
 
 ## Latest Cybersecurity News
 
+- [Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html)
+- [The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes](https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html)
+- [AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution](https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html)
 - [Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites](https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html)
 - [CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices](https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html)
-- [From Assistive to Agentic: The AI Shift That's Redefining Threat Management](https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html)
-- [Forget Data Leakage: Shadow AI's Real Threat Is Access Control](https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html)
-- [Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data](https://thehackernews.com/2026/06/salesforce-disables-klue-app.html)
 
 ---
 

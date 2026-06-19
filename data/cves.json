@@ -1,42 +1,42 @@
 [
     {
         "id": "Unknown CVE",
-        "summary": "Stack-buffer-overflow in wc_Shake256_Final"
+        "summary": "Oj: Use-After-Free in Oj::Parser SAJ Callback via Input Mutation"
     },
     {
         "id": "Unknown CVE",
-        "summary": "undici WebSocket client vulnerable to denial of service via fragment count bypass"
+        "summary": "Oj: Use-After-Free in Oj::Doc Iterators via Reentrant Close"
     },
     {
         "id": "Unknown CVE",
-        "summary": "undici vulnerable to HTTP header injection via Set-Cookie percent-decoding"
+        "summary": "Oj: Heap Buffer Overflow in Oj.dump Exception Serialization via Large Indent"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-buffer-overflow in bit_read_BB"
+        "summary": "parse-server: Stored XSS via non-standard file extension bypassing file upload extension blocklist"
     },
     {
         "id": "Unknown CVE",
-        "summary": "undici vulnerable to cross-origin request routing via SOCKS5 proxy pool reuse"
+        "summary": "Oj: Stack Buffer Overflow in Oj::Doc#each_child via Deeply Nested Input"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-buffer-overflow in DecodeBasicOcspResponse"
+        "summary": "jupyterlab-git excluded_paths Case-Sensitivity Bypass Allows Reading Excluded Directories"
     },
     {
         "id": "Unknown CVE",
-        "summary": "undici vulnerable to HTTP response queue poisoning via keep-alive socket reuse"
+        "summary": "jupyterlab-git extension: Stored XSS leading to RCE"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-buffer-overflow in dynapi_set_helper"
+        "summary": "Oj: intern.c form_attr (uninitialized stack read)"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-double-free in dwg_free_common_entity_data"
+        "summary": "Stanza: Remote Code Execution via Unsafe Pickle Deserialization in Model Loaders"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-buffer-overflow in dwg_encode_VERTEX_2D"
+        "summary": "Home Assistant: Konnected alarm-panel switch state and zone topology disclosed to unauthenticated actors on the LAN"
     }
 ]
