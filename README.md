@@ -1,19 +1,19 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-06-19 19:57:30.040561+00:00 UTC
+Last Updated: 2026-06-20 04:19:22.209685+00:00 UTC
 
 ## Latest CVEs
 
-- **Unknown CVE** : Oj: Use-After-Free in Oj::Parser SAJ Callback via Input Mutation
-- **Unknown CVE** : Oj: Use-After-Free in Oj::Doc Iterators via Reentrant Close
-- **Unknown CVE** : Oj: Heap Buffer Overflow in Oj.dump Exception Serialization via Large Indent
-- **Unknown CVE** : parse-server: Stored XSS via non-standard file extension bypassing file upload extension blocklist
-- **Unknown CVE** : Oj: Stack Buffer Overflow in Oj::Doc#each_child via Deeply Nested Input
-- **Unknown CVE** : jupyterlab-git excluded_paths Case-Sensitivity Bypass Allows Reading Excluded Directories
-- **Unknown CVE** : jupyterlab-git extension: Stored XSS leading to RCE
-- **Unknown CVE** : Oj: intern.c form_attr (uninitialized stack read)
-- **Unknown CVE** : Stanza: Remote Code Execution via Unsafe Pickle Deserialization in Model Loaders
-- **Unknown CVE** : Home Assistant: Konnected alarm-panel switch state and zone topology disclosed to unauthenticated actors on the LAN
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 

@@ -1,42 +1,42 @@
 [
     {
         "id": "Unknown CVE",
-        "summary": "Oj: Use-After-Free in Oj::Parser SAJ Callback via Input Mutation"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Oj: Use-After-Free in Oj::Doc Iterators via Reentrant Close"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Oj: Heap Buffer Overflow in Oj.dump Exception Serialization via Large Indent"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "parse-server: Stored XSS via non-standard file extension bypassing file upload extension blocklist"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Oj: Stack Buffer Overflow in Oj::Doc#each_child via Deeply Nested Input"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "jupyterlab-git excluded_paths Case-Sensitivity Bypass Allows Reading Excluded Directories"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "jupyterlab-git extension: Stored XSS leading to RCE"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Oj: intern.c form_attr (uninitialized stack read)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Stanza: Remote Code Execution via Unsafe Pickle Deserialization in Model Loaders"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Home Assistant: Konnected alarm-panel switch state and zone topology disclosed to unauthenticated actors on the LAN"
+        "summary": "No summary available"
     }
 ]
