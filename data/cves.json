@@ -1,19 +1,19 @@
 [
     {
         "id": "Unknown CVE",
+        "summary": "OpenAM has pre-auth Reflected XSS in OAuth2 / OIDC response_mode=form_post via state parameter (FormPostResponse.ftl)"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "OpenAM Authenticated Server-Side Request Forgery (SSRF) via `/sessionservice`"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "xwiki-pro-macros has remote code execution from page title and content via excerpt-include macro"
+    },
+    {
+        "id": "Unknown CVE",
         "summary": "No summary available"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "Malicious code in respects-switch (npm)"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "Malicious code in onboarding-respects-modal (npm)"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "Malicious code in crud-respect (npm)"
     },
     {
         "id": "Unknown CVE",
