@@ -5,7 +5,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "motionEye: LFI \u2192 pass\u2011the\u2011hash admin \u2192 unsafe restore \u2192 unauth action exec (RCE)"
     },
     {
         "id": "Unknown CVE",
@@ -33,10 +33,10 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in ttal2ttml (npm)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in search-from-search (npm)"
+        "summary": "No summary available"
     }
 ]
