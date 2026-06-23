@@ -1,15 +1,15 @@
 [
     {
         "id": "Unknown CVE",
-        "summary": "OpenAM has pre-auth Reflected XSS in OAuth2 / OIDC response_mode=form_post via state parameter (FormPostResponse.ftl)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "OpenAM Authenticated Server-Side Request Forgery (SSRF) via `/sessionservice`"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "xwiki-pro-macros has remote code execution from page title and content via excerpt-include macro"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",

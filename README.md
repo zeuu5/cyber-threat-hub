@@ -1,12 +1,12 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-06-22 20:58:14.880585+00:00 UTC
+Last Updated: 2026-06-23 04:08:44.043926+00:00 UTC
 
 ## Latest CVEs
 
-- **Unknown CVE** : OpenAM has pre-auth Reflected XSS in OAuth2 / OIDC response_mode=form_post via state parameter (FormPostResponse.ftl)
-- **Unknown CVE** : OpenAM Authenticated Server-Side Request Forgery (SSRF) via `/sessionservice`
-- **Unknown CVE** : xwiki-pro-macros has remote code execution from page title and content via excerpt-include macro
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
