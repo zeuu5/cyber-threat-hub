@@ -1,11 +1,11 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-06-23 20:15:20.836655+00:00 UTC
+Last Updated: 2026-06-24 04:11:57.995867+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : motionEye: LFI → pass‑the‑hash admin → unsafe restore → unauth action exec (RCE)
+- **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
