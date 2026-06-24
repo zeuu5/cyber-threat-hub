@@ -1,7 +1,11 @@
 [
     {
         "id": "Unknown CVE",
-        "summary": "hono Improperly Handles JSX Attribute Names Allows HTML Injection in hono/jsx SSR"
+        "summary": "No summary available"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
@@ -13,30 +17,26 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "ImageMagick has out-of-bounds access in ConnectedComponentsImage() via CLI-controlled connected-components:* artifacts"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "ImageMagick: Memory Leak in multiple coders that write raw pixel data "
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "n8n has a Stored XSS Vulnerability in its Form Trigger"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "n8n: SQL Injection in MySQL, PostgreSQL, and Microsoft SQL nodes"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Flowise has Insufficient Password Salt Rounds"
+        "summary": "Concrete CMS is vulnerable to\u00a0IDOR in AddMessage/UpdateMessage"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Flowise: Unauthenticated Information Disclosure of OAuth Secrets (Cleartext) via GET Request"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "Flowise: Weak Default Token Hash Secret"
+        "summary": "Concrete CMS is subject to\u00a0Insecure Direct Object Reference\u00a0(IDOR) in the Express Entry Detail block"
     }
 ]
