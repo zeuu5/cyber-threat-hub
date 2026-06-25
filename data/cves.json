@@ -33,10 +33,10 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Concrete CMS is vulnerable to\u00a0IDOR in AddMessage/UpdateMessage"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Concrete CMS is subject to\u00a0Insecure Direct Object Reference\u00a0(IDOR) in the Express Entry Detail block"
+        "summary": "No summary available"
     }
 ]

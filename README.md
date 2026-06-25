@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-06-24 19:56:49.633874+00:00 UTC
+Last Updated: 2026-06-25 04:12:14.914795+00:00 UTC
 
 ## Latest CVEs
 
@@ -12,8 +12,8 @@ Last Updated: 2026-06-24 19:56:49.633874+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Concrete CMS is vulnerable to IDOR in AddMessage/UpdateMessage
-- **Unknown CVE** : Concrete CMS is subject to Insecure Direct Object Reference (IDOR) in the Express Entry Detail block
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 
