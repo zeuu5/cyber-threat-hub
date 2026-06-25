@@ -1,7 +1,23 @@
 [
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in leo-cron (npm)"
+        "summary": "MessagePack-CSharp: ExpandoObject formatter can perform quadratic insertion work on untrusted maps"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "Malicious code in chlklib (npm)"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "MessagePack-CSharp: LZ4 decompression allocates from unbounded declared output lengths"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "No summary available"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "MessagePack-CSharp: ASP.NET Core MessagePackInputFormatter defaults to TrustedData for HTTP request bodies"
     },
     {
         "id": "Unknown CVE",
@@ -13,23 +29,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "No summary available"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "No summary available"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "No summary available"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Lemur has an authorization bypass in StrictRolePermission / AuthorityCreatorPermission"
     },
     {
         "id": "Unknown CVE",
