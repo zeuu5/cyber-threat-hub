@@ -1,17 +1,17 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-06-25 20:12:06.151122+00:00 UTC
+Last Updated: 2026-06-26 04:18:49.426907+00:00 UTC
 
 ## Latest CVEs
 
-- **Unknown CVE** : MessagePack-CSharp: ExpandoObject formatter can perform quadratic insertion work on untrusted maps
-- **Unknown CVE** : Malicious code in chlklib (npm)
-- **Unknown CVE** : MessagePack-CSharp: LZ4 decompression allocates from unbounded declared output lengths
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : MessagePack-CSharp: ASP.NET Core MessagePackInputFormatter defaults to TrustedData for HTTP request bodies
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Lemur has an authorization bypass in StrictRolePermission / AuthorityCreatorPermission
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 
