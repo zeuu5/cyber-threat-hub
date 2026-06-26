@@ -1,42 +1,42 @@
 [
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "UNKNOWN READ in _blit_xrgb32_lerp_spans"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-buffer-overflow in bit_read_BB"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-double-free in dwg_free"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-buffer-overflow in dynapi_set_helper"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-buffer-overflow in ZSTD_decompressMultiFrame"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-double-free in dwg_free_common_entity_data"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "UNKNOWN READ in HeifPixelImage::overlay"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-buffer-overflow in inflate"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-double-free in dwg_free_XRECORD_private"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in dttfdsdee (npm)"
+        "summary": "Heap-buffer-overflow in dwg_encode_VERTEX_2D"
     }
 ]
