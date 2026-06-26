@@ -1,42 +1,42 @@
 [
     {
         "id": "Unknown CVE",
-        "summary": "UNKNOWN READ in _blit_xrgb32_lerp_spans"
+        "summary": "pydantic-ai: SSRF blocklist bypass via IPv4-compatible, SIIT/IVI, and local NAT64 IPv6 addresses (incomplete fix of CVE-2026-46678)"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-buffer-overflow in bit_read_BB"
+        "summary": "Incus has an arbitrary file write on its client due to trusted image hash"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-double-free in dwg_free"
+        "summary": "@sigstore/core has DSSE payloadType type-binding failure"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-buffer-overflow in dynapi_set_helper"
+        "summary": "Incus: CreateCustomVolumeFromBackup nil-pointer dereference on volume_snapshots[*].expires_at (sibling-field variant of GHSA-r7w7)"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-buffer-overflow in ZSTD_decompressMultiFrame"
+        "summary": "Incus has an argument injection in backup compression algorithm leading to AFW and ACE"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-double-free in dwg_free_common_entity_data"
+        "summary": "Incus: Nil-pointer dereference in createDependentVolumesFromBackup\u00a0on disk.{Volume,VolumeSnapshots,Pool}"
     },
     {
         "id": "Unknown CVE",
-        "summary": "UNKNOWN READ in HeifPixelImage::overlay"
+        "summary": "Incus has an arbitrary file write via path traversal in S3 multipart upload"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-buffer-overflow in inflate"
+        "summary": "Incus has arbitrary file read+write on host via templates/ symlink in malicious image"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-double-free in dwg_free_XRECORD_private"
+        "summary": "Malicious code in self-certificate (npm)"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-buffer-overflow in dwg_encode_VERTEX_2D"
+        "summary": "Malicious code in db-dx-connector (npm)"
     }
 ]
