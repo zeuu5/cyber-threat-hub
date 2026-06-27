@@ -1,19 +1,19 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-06-26 20:00:09.043242+00:00 UTC
+Last Updated: 2026-06-27 04:05:23.694024+00:00 UTC
 
 ## Latest CVEs
 
-- **Unknown CVE** : pydantic-ai: SSRF blocklist bypass via IPv4-compatible, SIIT/IVI, and local NAT64 IPv6 addresses (incomplete fix of CVE-2026-46678)
-- **Unknown CVE** : Incus has an arbitrary file write on its client due to trusted image hash
-- **Unknown CVE** : @sigstore/core has DSSE payloadType type-binding failure
-- **Unknown CVE** : Incus: CreateCustomVolumeFromBackup nil-pointer dereference on volume_snapshots[*].expires_at (sibling-field variant of GHSA-r7w7)
-- **Unknown CVE** : Incus has an argument injection in backup compression algorithm leading to AFW and ACE
-- **Unknown CVE** : Incus: Nil-pointer dereference in createDependentVolumesFromBackup on disk.{Volume,VolumeSnapshots,Pool}
-- **Unknown CVE** : Incus has an arbitrary file write via path traversal in S3 multipart upload
-- **Unknown CVE** : Incus has arbitrary file read+write on host via templates/ symlink in malicious image
-- **Unknown CVE** : Malicious code in self-certificate (npm)
-- **Unknown CVE** : Malicious code in db-dx-connector (npm)
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : Malicious code in chai-as-persisted (npm)
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 

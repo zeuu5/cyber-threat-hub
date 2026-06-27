@@ -1,42 +1,42 @@
 [
     {
         "id": "Unknown CVE",
-        "summary": "pydantic-ai: SSRF blocklist bypass via IPv4-compatible, SIIT/IVI, and local NAT64 IPv6 addresses (incomplete fix of CVE-2026-46678)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Incus has an arbitrary file write on its client due to trusted image hash"
+        "summary": "Malicious code in chai-as-persisted (npm)"
     },
     {
         "id": "Unknown CVE",
-        "summary": "@sigstore/core has DSSE payloadType type-binding failure"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Incus: CreateCustomVolumeFromBackup nil-pointer dereference on volume_snapshots[*].expires_at (sibling-field variant of GHSA-r7w7)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Incus has an argument injection in backup compression algorithm leading to AFW and ACE"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Incus: Nil-pointer dereference in createDependentVolumesFromBackup\u00a0on disk.{Volume,VolumeSnapshots,Pool}"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Incus has an arbitrary file write via path traversal in S3 multipart upload"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Incus has arbitrary file read+write on host via templates/ symlink in malicious image"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in self-certificate (npm)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in db-dx-connector (npm)"
+        "summary": "No summary available"
     }
 ]
