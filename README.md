@@ -1,11 +1,11 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-06-27 04:05:23.694024+00:00 UTC
+Last Updated: 2026-06-27 08:45:52.365167+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Malicious code in chai-as-persisted (npm)
+- **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
