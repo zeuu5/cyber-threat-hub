@@ -1,42 +1,42 @@
 [
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Kimai Password Reset Link Remains Valid After Password Change"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "pretix vulnerable to Authorization Bypass Through User-Controlled Key"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Jenkins buildgraph-view Plugin does not escape the build URL"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Jenkins Multijob Plugin has a cross-site request forgery (CSRF) vulnerability"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Jenkins Job Import Plugin does not perform a permission check in an HTTP endpoint"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Jenkins GitHub Integration Plugin has a cross-site request forgery (CSRF) vulnerability"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Jenkins Bitbucket OAuth Plugin does not restrict the redirect URL after login"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Jenkins AppSpider Plugin does not perform a permission check in a method implementing form validation"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Jenkins Email Extension Plugin: Attackers able to control email content may specify `file:` URLs for images to read arbitrary files from Jenkins controller filesystem"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Jenkins Credentials Binding Plugin does not properly sanitize file names for file and zip file credentials"
     }
 ]
