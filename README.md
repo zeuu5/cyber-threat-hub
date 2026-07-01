@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-07-01 10:03:23.058621+00:00 UTC
+Last Updated: 2026-07-01 14:51:27.052536+00:00 UTC
 
 ## Latest CVEs
 
@@ -17,11 +17,11 @@ Last Updated: 2026-07-01 10:03:23.058621+00:00 UTC
 
 ## Latest Cybersecurity News
 
+- [Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts](https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html)
+- [AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android](https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html)
+- [2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience](https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html)
+- [Microsoft Accelerates Post-Quantum Cryptography Shift to 2029](https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html)
 - [Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware](https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html)
-- [Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls](https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html)
-- [Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts](https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html)
-- [Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery](https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html)
-- [Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service](https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html)
 
 ---
 
