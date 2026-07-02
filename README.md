@@ -1,19 +1,19 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-07-01 20:04:14.496196+00:00 UTC
+Last Updated: 2026-07-02 04:08:46.988043+00:00 UTC
 
 ## Latest CVEs
 
-- **Unknown CVE** : Kimai Password Reset Link Remains Valid After Password Change
-- **Unknown CVE** : pretix vulnerable to Authorization Bypass Through User-Controlled Key
-- **Unknown CVE** : Jenkins buildgraph-view Plugin does not escape the build URL
-- **Unknown CVE** : Jenkins Multijob Plugin has a cross-site request forgery (CSRF) vulnerability
-- **Unknown CVE** : Jenkins Job Import Plugin does not perform a permission check in an HTTP endpoint
-- **Unknown CVE** : Jenkins GitHub Integration Plugin has a cross-site request forgery (CSRF) vulnerability
-- **Unknown CVE** : Jenkins Bitbucket OAuth Plugin does not restrict the redirect URL after login
-- **Unknown CVE** : Jenkins AppSpider Plugin does not perform a permission check in a method implementing form validation
-- **Unknown CVE** : Jenkins Email Extension Plugin: Attackers able to control email content may specify `file:` URLs for images to read arbitrary files from Jenkins controller filesystem
-- **Unknown CVE** : Jenkins Credentials Binding Plugin does not properly sanitize file names for file and zip file credentials
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 
