@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-07-02 14:20:27.672183+00:00 UTC
+Last Updated: 2026-07-02 19:42:30.241578+00:00 UTC
 
 ## Latest CVEs
 
@@ -17,11 +17,11 @@ Last Updated: 2026-07-02 14:20:27.672183+00:00 UTC
 
 ## Latest Cybersecurity News
 
+- [Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices](https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html)
+- [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html)
+- [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
 - [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
 - [Identity Lifecycle Management Wasn't Built for AI Agents ](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
-- [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)
-- [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html)
-- [New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos](https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html)
 
 ---
 
