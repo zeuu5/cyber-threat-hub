@@ -1,11 +1,11 @@
 [
     {
         "id": "Unknown CVE",
-        "summary": "`Matrix{2,3,4}::swap_columns` can trigger undefined behavior for identical indices"
+        "summary": "Malicious code in hello244a (npm)"
     },
     {
         "id": "Unknown CVE",
-        "summary": "`cgmath` is unmaintained"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
