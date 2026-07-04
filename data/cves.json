@@ -9,7 +9,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Panic in `bcrypt::verify` on non-ASCII hash input"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
