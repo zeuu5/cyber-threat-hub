@@ -1,12 +1,12 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-07-04 03:48:50.213977+00:00 UTC
+Last Updated: 2026-07-04 08:46:53.364703+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** : Panic in `bcrypt::verify` on non-ASCII hash input
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
