@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-07-06 15:49:13.352045+00:00 UTC
+Last Updated: 2026-07-06 20:07:26.474572+00:00 UTC
 
 ## Latest CVEs
 
@@ -17,11 +17,11 @@ Last Updated: 2026-07-06 15:49:13.352045+00:00 UTC
 
 ## Latest Cybersecurity News
 
+- [Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations](https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html)
+- [16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems](https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html)
+- [Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure](https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html)
 - [⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More](https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html)
 - [How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions](https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html)
-- [Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT](https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html)
-- [New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions](https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html)
-- [New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS](https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html)
 
 ---
 
