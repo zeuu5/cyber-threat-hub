@@ -25,18 +25,18 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-buffer-overflow in mmcall"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Stack-buffer-overflow in gf_vvc_parse_nalu_bs"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-buffer-overflow in hevc_ref_pic_lists_modification"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-buffer-overflow in gf_dash_group_get_template"
     }
 ]
