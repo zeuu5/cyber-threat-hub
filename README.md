@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-07-10 19:42:50.068543+00:00 UTC
+Last Updated: 2026-07-11 03:24:53.144313+00:00 UTC
 
 ## Latest CVEs
 
@@ -8,7 +8,7 @@ Last Updated: 2026-07-10 19:42:50.068543+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** : Malicious code in auth-next-gen (npm)
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
