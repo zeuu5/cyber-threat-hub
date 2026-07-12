@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-07-12 08:26:54.555417+00:00 UTC
+Last Updated: 2026-07-12 13:42:50.662340+00:00 UTC
 
 ## Latest CVEs
 
@@ -9,7 +9,7 @@ Last Updated: 2026-07-12 08:26:54.555417+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : `rustybuzz` is unmaintained
+- **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
