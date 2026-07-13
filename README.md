@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-07-12 19:15:03.103719+00:00 UTC
+Last Updated: 2026-07-13 03:39:05.880935+00:00 UTC
 
 ## Latest CVEs
 
@@ -9,8 +9,8 @@ Last Updated: 2026-07-12 19:15:03.103719+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** : Malicious code in pure-folder-three (npm)
+- **Unknown CVE** : Malicious code in dotnet-runtime-base (npm)
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
