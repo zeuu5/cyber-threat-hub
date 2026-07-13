@@ -1,27 +1,27 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-07-13 09:40:18.292517+00:00 UTC
+Last Updated: 2026-07-13 14:50:59.863091+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Malicious code in nottuff7 (npm)
-- **Unknown CVE** : Malicious code in nottuff4 (npm)
-- **Unknown CVE** : Malicious code in nottuff25 (npm)
-- **Unknown CVE** : Malicious code in nottuff23 (npm)
-- **Unknown CVE** : Malicious code in tipsen-poc-again (npm)
-- **Unknown CVE** : Malicious code in tipsen-last-pls (npm)
-- **Unknown CVE** : Malicious code in tipsen-last (npm)
-- **Unknown CVE** : Malicious code in nottuff9 (npm)
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 
+- [Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft](https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html)
+- [Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling](https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html)
+- [Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots](https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html)
+- [Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory](https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html)
 - [Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365](https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html)
-- [iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days](https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html)
-- [Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html)
-- [Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns](https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html)
-- [Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions](https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html)
 
 ---
 
