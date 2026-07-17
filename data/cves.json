@@ -9,7 +9,15 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Formie: Missing authorization in administrative settings allows low-privileged CP users to modify plugin configuration"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "Gitea has insufficient permission checks for Composer package source links"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "TAK-PS-Stats Web UI: Authenticated full-read SSRF in CloudTAK basemap import (PUT /api/basemap) \u2014 no IP-classification guard"
     },
     {
         "id": "Unknown CVE",
@@ -21,15 +29,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "No summary available"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "oapi-codegen: OpenAPI Server Description Escapes Generated Go Comment and Injects Executable Code"
     },
     {
         "id": "Unknown CVE",
