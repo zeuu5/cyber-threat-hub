@@ -1,19 +1,19 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-07-18 13:37:05.330694+00:00 UTC
+Last Updated: 2026-07-18 19:13:17.260256+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** : n8n: Webhook Forgery on Github Webhook Trigger
+- **Unknown CVE** : UltraJSON: Malformed/Truncated UTF-8 Accepted and Silently Rewritten in ujson.dumps()
+- **Unknown CVE** : WebOb: Location header normalization during redirect leads to open redirect - again
+- **Unknown CVE** : Picklescan is vulnerable to RCE through missing detection when calling numpy.f2py.crackfortran._eval_length
+- **Unknown CVE** : Picklescan has a missing detection when calling built-in python idlelib.autocomplete.AutoComplete.get_entity
+- **Unknown CVE** : Nest: Middleware Bypass on Fastify via Trailing Slash
+- **Unknown CVE** : Filament has inconsistent scope enforcement for its AttachAction and AssociateAction Select fields
 
 ## Latest Cybersecurity News
 
