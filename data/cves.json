@@ -13,30 +13,30 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "n8n: Webhook Forgery on Github Webhook Trigger"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "UltraJSON: Malformed/Truncated UTF-8 Accepted and Silently Rewritten in ujson.dumps()"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "WebOb: Location header normalization during redirect leads to open redirect - again"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Picklescan is vulnerable to RCE through missing detection when calling numpy.f2py.crackfortran._eval_length"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Picklescan has a missing detection when calling built-in python idlelib.autocomplete.AutoComplete.get_entity"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Nest: Middleware Bypass on Fastify via Trailing Slash"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Filament has inconsistent scope enforcement for its AttachAction and AssociateAction Select fields"
+        "summary": "No summary available"
     }
 ]
