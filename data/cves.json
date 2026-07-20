@@ -9,15 +9,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in uac-package (npm)"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "Malicious code in @tqm-mfe/main (npm)"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "Malicious code in @car_loans/dealerships-approval (npm)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
@@ -25,18 +17,26 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in @gocortexio/npmgremlinbox-wxwindows (npm)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in @gocortexio/npmgremlinbox-typosquat-lodash (npm)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in @gocortexio/npmgremlinbox-typosquat-express (npm)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in @gocortexio/npmgremlinbox-osl-3-0 (npm)"
+        "summary": "No summary available"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "No summary available"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "No summary available"
     }
 ]
