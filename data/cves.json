@@ -17,15 +17,15 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Gogs has Stored XSS in `.ipynb` Preview"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Gogs: Overwriting critical files results in a denial of service"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Gogs's Unauthenticated Jupyter Notebook (ipynb) Sanitizer allows arbitrary data: URIs leading to XSS"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
