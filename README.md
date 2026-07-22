@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-07-22 03:25:13.926082+00:00 UTC
+Last Updated: 2026-07-22 08:38:36.845069+00:00 UTC
 
 ## Latest CVEs
 
@@ -17,11 +17,11 @@ Last Updated: 2026-07-22 03:25:13.926082+00:00 UTC
 
 ## Latest Cybersecurity News
 
+- [Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA](https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html)
+- [Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library](https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html)
+- [Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents](https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html)
+- [OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark](https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html)
 - [Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs](https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html)
-- [AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code](https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html)
-- [Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities](https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html)
-- [Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC](https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html)
-- [Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access](https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html)
 
 ---
 
