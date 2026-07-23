@@ -9,15 +9,15 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "DOMPurify: SAFE_FOR_TEMPLATES bypass - template expressions survive sanitization inside <template> content when using DOM output modes"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "DOMPurify: Trusted Types policy survives `clearConfig()` and can poison later `RETURN_TRUSTED_TYPE` output"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "DOMPurify: Permanent `ALLOWED_ATTR` pollution via `setConfig()` bypassing the hook clone-guard (incomplete fix of the 3.4.7 hook-pollution patch)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
