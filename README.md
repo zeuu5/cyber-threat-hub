@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-07-25 03:24:31.369540+00:00 UTC
+Last Updated: 2026-07-25 08:16:46.446894+00:00 UTC
 
 ## Latest CVEs
 
@@ -8,7 +8,7 @@ Last Updated: 2026-07-25 03:24:31.369540+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** :  Remote memory exhaustion in quinn-proto from unbounded out-of-order stream reassembly
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available

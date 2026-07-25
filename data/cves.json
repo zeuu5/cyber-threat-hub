@@ -17,7 +17,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": " Remote memory exhaustion in quinn-proto from unbounded out-of-order stream reassembly"
     },
     {
         "id": "Unknown CVE",
