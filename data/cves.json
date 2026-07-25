@@ -13,30 +13,30 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: mariadb-connector-c security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: dogtag-pki security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: kernel security, bug fix, and enhancement update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: acl security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Moderate: glibc security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: c-ares security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: glib2 security update"
     }
 ]

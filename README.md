@@ -1,19 +1,19 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-07-25 13:50:14.612517+00:00 UTC
+Last Updated: 2026-07-25 19:18:21.650374+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** : Important: mariadb-connector-c security update
+- **Unknown CVE** : Important: dogtag-pki security update
+- **Unknown CVE** : Important: kernel security, bug fix, and enhancement update
+- **Unknown CVE** : Important: acl security update
+- **Unknown CVE** : Moderate: glibc security update
+- **Unknown CVE** : Important: c-ares security update
+- **Unknown CVE** : Important: glib2 security update
 
 ## Latest Cybersecurity News
 
