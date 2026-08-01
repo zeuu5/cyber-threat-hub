@@ -9,23 +9,23 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "LimeSurvey has a SQL Injection issue"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "LimeSurvey constructs account password-reset links from the client-supplied HTTP Host header without validating it."
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Jodit has cross-site scripting (XSS) via <script> nested in SVG that bypasses clean-html sanitization"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Jodit Editor: Mutation XSS in jodit clean-html via a MathML/style rawtext carrier"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Jodit has prototype pollution via Jodit.configure() / ConfigMerge"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",

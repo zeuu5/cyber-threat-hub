@@ -1,16 +1,16 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-07-31 19:44:02.053031+00:00 UTC
+Last Updated: 2026-08-01 03:35:37.657843+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : LimeSurvey has a SQL Injection issue
-- **Unknown CVE** : LimeSurvey constructs account password-reset links from the client-supplied HTTP Host header without validating it.
-- **Unknown CVE** : Jodit has cross-site scripting (XSS) via <script> nested in SVG that bypasses clean-html sanitization
-- **Unknown CVE** : Jodit Editor: Mutation XSS in jodit clean-html via a MathML/style rawtext carrier
-- **Unknown CVE** : Jodit has prototype pollution via Jodit.configure() / ConfigMerge
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
