@@ -9,7 +9,11 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "PraisonAI: Coarse-Grained Tool Approval Cache Bypasses Per-Invocation Consent for Shell Commands"
+        "summary": "No summary available"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
@@ -21,22 +25,18 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: kernel security, bug fix, and enhancement update"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: kernel security update"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: vim security update"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: fence-agents security update"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "Important: openssh security update"
+        "summary": "No summary available"
     }
 ]

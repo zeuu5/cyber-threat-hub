@@ -1,19 +1,19 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-08-02 03:35:15.753387+00:00 UTC
+Last Updated: 2026-08-02 08:32:29.269139+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : PraisonAI: Coarse-Grained Tool Approval Cache Bypasses Per-Invocation Consent for Shell Commands
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Important: kernel security, bug fix, and enhancement update
-- **Unknown CVE** : Important: kernel security update
-- **Unknown CVE** : Important: vim security update
-- **Unknown CVE** : Important: fence-agents security update
-- **Unknown CVE** : Important: openssh security update
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 
