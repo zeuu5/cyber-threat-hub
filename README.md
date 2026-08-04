@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-08-04 08:48:40.087949+00:00 UTC
+Last Updated: 2026-08-04 14:31:15.841581+00:00 UTC
 
 ## Latest CVEs
 
@@ -17,11 +17,11 @@ Last Updated: 2026-08-04 08:48:40.087949+00:00 UTC
 
 ## Latest Cybersecurity News
 
-- [CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises](https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html)
-- [18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users](https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html)
-- [Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts](https://thehackernews.com/2026/08/google-password-manager-attacks-could.html)
-- [INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws](https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html)
-- [⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks](https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html)
+- [Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks](https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html)
+- [Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access](https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html)
+- [When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted](https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html)
+- [Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent](https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html)
+- [New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root](https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html)
 
 ---
 
