@@ -33,10 +33,10 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Malicious code in jagproject (npm)"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Malicious code in localization-fixer (npm)"
     }
 ]
