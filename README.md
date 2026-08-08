@@ -1,19 +1,19 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-08-08 02:04:17.608458+00:00 UTC
+Last Updated: 2026-08-08 07:03:19.068656+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : Malicious code in jagproject (npm)
-- **Unknown CVE** : Malicious code in localization-fixer (npm)
+- **Unknown CVE** : Low: kernel security, bug fix, and enhancement update
+- **Unknown CVE** : Moderate: kernel security, bug fix, and enhancement update
+- **Unknown CVE** : Important: kernel security, bug fix, and enhancement update
+- **Unknown CVE** : Important: sg3_utils security, bug fix, and enhancement update
+- **Unknown CVE** : Moderate: kernel security, bug fix, and enhancement update
+- **Unknown CVE** : Important: gpsd security update
+- **Unknown CVE** : Important: freerdp security update
+- **Unknown CVE** : Moderate: libgcrypt security update
 
 ## Latest Cybersecurity News
 

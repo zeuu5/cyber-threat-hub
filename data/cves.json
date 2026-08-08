@@ -9,34 +9,34 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Low: kernel security, bug fix, and enhancement update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Moderate: kernel security, bug fix, and enhancement update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: kernel security, bug fix, and enhancement update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: sg3_utils security, bug fix, and enhancement update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Moderate: kernel security, bug fix, and enhancement update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: gpsd security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in jagproject (npm)"
+        "summary": "Important: freerdp security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in localization-fixer (npm)"
+        "summary": "Moderate: libgcrypt security update"
     }
 ]
