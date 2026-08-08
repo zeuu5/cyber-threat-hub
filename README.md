@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-08-08 13:01:49.900543+00:00 UTC
+Last Updated: 2026-08-08 18:47:50.439379+00:00 UTC
 
 ## Latest CVEs
 
@@ -9,11 +9,11 @@ Last Updated: 2026-08-08 13:01:49.900543+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Low: kernel security, bug fix, and enhancement update
-- **Unknown CVE** : Moderate: kernel security, bug fix, and enhancement update
-- **Unknown CVE** : Important: kernel security, bug fix, and enhancement update
-- **Unknown CVE** : Important: sg3_utils security, bug fix, and enhancement update
-- **Unknown CVE** : Moderate: kernel security, bug fix, and enhancement update
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 
