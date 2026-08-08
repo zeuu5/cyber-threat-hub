@@ -9,6 +9,18 @@
     },
     {
         "id": "Unknown CVE",
+        "summary": "No summary available"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "No summary available"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "No summary available"
+    },
+    {
+        "id": "Unknown CVE",
         "summary": "Low: kernel security, bug fix, and enhancement update"
     },
     {
@@ -26,17 +38,5 @@
     {
         "id": "Unknown CVE",
         "summary": "Moderate: kernel security, bug fix, and enhancement update"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "Important: gpsd security update"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "Important: freerdp security update"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "Moderate: libgcrypt security update"
     }
 ]
