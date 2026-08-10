@@ -25,18 +25,18 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Relative/Absolute Path Traversal (CWE-23/CWE-36) in `decompress_impl` that enables an arbitrary file write."
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Low: kernel security, bug fix, and enhancement update"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Moderate: kernel security, bug fix, and enhancement update"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: kernel security, bug fix, and enhancement update"
+        "summary": "No summary available"
     }
 ]
