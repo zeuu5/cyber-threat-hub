@@ -9,10 +9,6 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "PraisonAI: Coarse-Grained Tool Approval Cache Bypasses Per-Invocation Consent for Shell Commands"
-    },
-    {
-        "id": "Unknown CVE",
         "summary": "No summary available"
     },
     {
@@ -21,15 +17,19 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in reqcrypt-dev (PyPI)"
+        "summary": "Discourse: Shared-draft titles and excerpts leak through group post serialization"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in mcq-session (npm)"
+        "summary": "Discourse: Cache poisoning/XSS via color scheme cookies"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in @next-fonts/font (npm)"
+        "summary": "Discourse: Hidden first-post excerpt is emitted in Q&A schema JSON-LD"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
