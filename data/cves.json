@@ -9,7 +9,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "PraisonAI: Coarse-Grained Tool Approval Cache Bypasses Per-Invocation Consent for Shell Commands"
     },
     {
         "id": "Unknown CVE",
@@ -21,15 +21,15 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Malicious code in reqcrypt-dev (PyPI)"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Malicious code in mcq-session (npm)"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Malicious code in @next-fonts/font (npm)"
     },
     {
         "id": "Unknown CVE",
