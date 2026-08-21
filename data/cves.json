@@ -17,15 +17,15 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Discourse: Shared-draft titles and excerpts leak through group post serialization"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Discourse: Cache poisoning/XSS via color scheme cookies"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Discourse: Hidden first-post excerpt is emitted in Q&A schema JSON-LD"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
