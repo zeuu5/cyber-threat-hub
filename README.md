@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-08-22 06:50:53.170068+00:00 UTC
+Last Updated: 2026-08-22 12:51:23.660394+00:00 UTC
 
 ## Latest CVEs
 
@@ -13,7 +13,7 @@ Last Updated: 2026-08-22 06:50:53.170068+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** : Path traversal in Cohttp.Path.resolve_local_file
 
 ## Latest Cybersecurity News
 
