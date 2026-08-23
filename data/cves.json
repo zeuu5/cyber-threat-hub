@@ -9,34 +9,34 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Moderate: kbd security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Moderate: python-idna security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Moderate: dhcpcd security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: isns-utils security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: mrtg security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: kernel security, bug fix, and enhancement update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: ansible-core security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: yggdrasil security update"
     }
 ]
