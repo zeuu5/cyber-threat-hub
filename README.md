@@ -1,19 +1,19 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-08-24 01:46:03.448615+00:00 UTC
+Last Updated: 2026-08-24 07:10:35.795495+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Moderate: kbd security update
-- **Unknown CVE** : Moderate: python-idna security update
-- **Unknown CVE** : Moderate: dhcpcd security update
-- **Unknown CVE** : Important: isns-utils security update
-- **Unknown CVE** : Important: mrtg security update
-- **Unknown CVE** : Important: kernel security, bug fix, and enhancement update
-- **Unknown CVE** : Important: ansible-core security update
-- **Unknown CVE** : Important: yggdrasil security update
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 
