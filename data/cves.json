@@ -13,7 +13,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "postcss-selector-parser allows denial of service through uncontrolled AST recursion"
     },
     {
         "id": "Unknown CVE",
