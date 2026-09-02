@@ -1,15 +1,15 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-09-01 20:54:47.622542+00:00 UTC
+Last Updated: 2026-09-02 04:05:08.486746+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** : Malicious code in syswatch (PyPI)
+- **Unknown CVE** : Malicious code in gcphelpit (PyPI)
+- **Unknown CVE** : Malicious code in quartz-core (npm)
+- **Unknown CVE** : Malicious code in evilpostinstall (npm)
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
