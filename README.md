@@ -1,15 +1,15 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-09-02 04:05:08.486746+00:00 UTC
+Last Updated: 2026-09-02 11:04:06.201842+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Malicious code in syswatch (PyPI)
-- **Unknown CVE** : Malicious code in gcphelpit (PyPI)
-- **Unknown CVE** : Malicious code in quartz-core (npm)
-- **Unknown CVE** : Malicious code in evilpostinstall (npm)
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
@@ -17,11 +17,11 @@ Last Updated: 2026-09-02 04:05:08.486746+00:00 UTC
 
 ## Latest Cybersecurity News
 
-- [Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure](https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html)
-- [Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems](https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html)
-- [13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds](https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html)
-- [Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests](https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html)
-- [Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones](https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html)
+- [Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain](https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html)
+- [GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends](https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html)
+- [Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands](https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html)
+- [Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another](https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html)
+- [Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials](https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html)
 
 ---
 
