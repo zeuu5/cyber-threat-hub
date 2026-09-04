@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-09-03 20:52:22.695926+00:00 UTC
+Last Updated: 2026-09-04 04:06:45.059913+00:00 UTC
 
 ## Latest CVEs
 
