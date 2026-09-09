@@ -1,19 +1,19 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-09-08 21:00:30.353399+00:00 UTC
+Last Updated: 2026-09-09 04:17:44.824267+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** : Malicious code in telegram-helper (PyPI)
+- **Unknown CVE** : Malicious code in py-devoli-common (PyPI)
+- **Unknown CVE** : Malicious code in gcphelpit (PyPI)
+- **Unknown CVE** : Malicious code in asti (PyPI)
+- **Unknown CVE** : Malicious code in wolverinechat (npm)
+- **Unknown CVE** : Malicious code in ulid-intel (npm)
+- **Unknown CVE** : Malicious code in twilio-voice-js-reference-components (npm)
 
 ## Latest Cybersecurity News
 
