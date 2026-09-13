@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-09-13 16:02:38.323274+00:00 UTC
+Last Updated: 2026-09-13 20:38:20.378035+00:00 UTC
 
 ## Latest CVEs
 
@@ -8,9 +8,9 @@ Last Updated: 2026-09-13 16:02:38.323274+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Use-of-uninitialized-value in pcapint_filter_with_aux_data
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : UNKNOWN WRITE in Runtime_Release
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
