@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-09-14 04:32:07.496716+00:00 UTC
+Last Updated: 2026-09-14 12:27:32.245241+00:00 UTC
 
 ## Latest CVEs
 
@@ -17,11 +17,11 @@ Last Updated: 2026-09-14 04:32:07.496716+00:00 UTC
 
 ## Latest Cybersecurity News
 
+- [AI Changed the Exposure Problem. Validation Needs to Change With It.](https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html)
+- [Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users](https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html)
 - [Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data](https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html)
 - [CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV](https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html)
 - [When the Whole Company Adopts AI: What It Does to Your SOC](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
-- [OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
-- [GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure](https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html)
 
 ---
 
