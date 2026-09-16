@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-09-16 16:38:12.505623+00:00 UTC
+Last Updated: 2026-09-16 21:10:15.659605+00:00 UTC
 
 ## Latest CVEs
 
@@ -13,7 +13,7 @@ Last Updated: 2026-09-16 16:38:12.505623+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : djust has Cross-Site Request Forgery on the Server-Sent-Events transport: a cross-origin page can drive a victim-authenticated SSE session
+- **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 

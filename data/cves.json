@@ -37,6 +37,6 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "djust has Cross-Site Request Forgery on the Server-Sent-Events transport: a cross-origin page can drive a victim-authenticated SSE session"
+        "summary": "No summary available"
     }
 ]
