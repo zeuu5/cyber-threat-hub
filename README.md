@@ -1,19 +1,19 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-09-22 21:09:04.619035+00:00 UTC
+Last Updated: 2026-09-23 04:25:00.988347+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** : Malicious code in vxhjkseuiaqkb (npm)
+- **Unknown CVE** : Malicious code in uolcs-host-uol-anuncios-fe (npm)
+- **Unknown CVE** : Malicious code in testdgdbcsd (npm)
+- **Unknown CVE** : Malicious code in tesgfvbncsdbcv (npm)
+- **Unknown CVE** : Malicious code in subapp-pkg-util (npm)
+- **Unknown CVE** : Malicious code in skxcmwuncbg2 (npm)
+- **Unknown CVE** : Malicious code in prettier-lint-lenz (npm)
+- **Unknown CVE** : Malicious code in ndmxchdjxn2 (npm)
 
 ## Latest Cybersecurity News
 
