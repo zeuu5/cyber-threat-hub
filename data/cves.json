@@ -25,18 +25,18 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "virtualenv writes prompt values into pyvenv.cfg without sanitizing line boundaries, allowing configuration injection"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "virtualenv: Downloaded seed wheels (pip/setuptools) are not integrity-checked before use"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "virtualenv writes prompt values into pyvenv.cfg without sanitizing line boundaries, allowing configuration injection"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "virtualenv: Downloaded seed wheels (pip/setuptools) are not integrity-checked before use"
     }
 ]
