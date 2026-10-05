@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-10-04 21:10:54.510061+00:00 UTC
+Last Updated: 2026-10-05 05:12:36.662167+00:00 UTC
 
 ## Latest CVEs
 
@@ -10,10 +10,10 @@ Last Updated: 2026-10-04 21:10:54.510061+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : virtualenv writes prompt values into pyvenv.cfg without sanitizing line boundaries, allowing configuration injection
-- **Unknown CVE** : virtualenv: Downloaded seed wheels (pip/setuptools) are not integrity-checked before use
-- **Unknown CVE** : virtualenv writes prompt values into pyvenv.cfg without sanitizing line boundaries, allowing configuration injection
-- **Unknown CVE** : virtualenv: Downloaded seed wheels (pip/setuptools) are not integrity-checked before use
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 
