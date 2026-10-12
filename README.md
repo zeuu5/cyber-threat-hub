@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-10-11 21:44:09.302425+00:00 UTC
+Last Updated: 2026-10-12 05:33:45.478309+00:00 UTC
 
 ## Latest CVEs
 
@@ -10,10 +10,10 @@ Last Updated: 2026-10-11 21:44:09.302425+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** : Malicious code in dransay (npm)
+- **Unknown CVE** : Malicious code in @dransay/secrets (npm)
+- **Unknown CVE** : Malicious code in @dransay/phone-fix-test (npm)
+- **Unknown CVE** : Malicious code in @dransay/logger (npm)
 
 ## Latest Cybersecurity News
 
