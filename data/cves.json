@@ -17,10 +17,6 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-double-free in dwg_free_XRECORD_private"
-    },
-    {
-        "id": "Unknown CVE",
         "summary": "No summary available"
     },
     {
@@ -37,6 +33,10 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Use-of-uninitialized-value in XCFImageFormat::mergeRGBToRGB"
+        "summary": "No summary available"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "No summary available"
     }
 ]
