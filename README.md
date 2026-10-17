@@ -1,13 +1,13 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-10-17 15:22:09.752329+00:00 UTC
+Last Updated: 2026-10-17 20:25:15.629927+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Heap-use-after-free in draco::Metadata::AddSubMetadata
-- **Unknown CVE** : UNKNOWN READ in std::__1::_MetaBase<__can_be_converted_to_string_view<char, std::__1::char_trait
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
