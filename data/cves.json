@@ -9,11 +9,11 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-use-after-free in draco::Metadata::AddSubMetadata"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "UNKNOWN READ in std::__1::_MetaBase<__can_be_converted_to_string_view<char, std::__1::char_trait"
     },
     {
         "id": "Unknown CVE",
