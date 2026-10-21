@@ -29,14 +29,14 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Pillow: Out-of-bounds access in _imagingmorph on a zero-width image"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Pillow: GIF seek keeps rejected size after DecompressionBombError, allowing DoS"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Pillow: EPS load(scale) lets Ghostscript render past the decompression bomb limit"
+        "summary": "No summary available"
     }
 ]

@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-10-20 21:28:02.014388+00:00 UTC
+Last Updated: 2026-10-21 04:19:25.768055+00:00 UTC
 
 ## Latest CVEs
 
@@ -11,9 +11,9 @@ Last Updated: 2026-10-20 21:28:02.014388+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Pillow: Out-of-bounds access in _imagingmorph on a zero-width image
-- **Unknown CVE** : Pillow: GIF seek keeps rejected size after DecompressionBombError, allowing DoS
-- **Unknown CVE** : Pillow: EPS load(scale) lets Ghostscript render past the decompression bomb limit
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 
