@@ -1,12 +1,12 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-10-22 04:18:56.459202+00:00 UTC
+Last Updated: 2026-10-22 11:34:14.714620+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Malicious code in unicode-title-normalizer (npm)
+- **Unknown CVE** : Race condition in `tokio::time::Interval` on Tokio v1.54.0
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
@@ -17,11 +17,11 @@ Last Updated: 2026-10-22 04:18:56.459202+00:00 UTC
 
 ## Latest Cybersecurity News
 
-- [Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases](https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html)
-- [LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor](https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html)
-- [OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So](https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html)
-- [PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge](https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html)
-- [Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands](https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html)
+- [Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation](https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html)
+- [OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL](https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html)
+- [LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release](https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html)
+- [Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions](https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html)
+- [New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification](https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html)
 
 ---
 

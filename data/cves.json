@@ -9,7 +9,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in unicode-title-normalizer (npm)"
+        "summary": "Race condition in `tokio::time::Interval` on Tokio v1.54.0"
     },
     {
         "id": "Unknown CVE",
