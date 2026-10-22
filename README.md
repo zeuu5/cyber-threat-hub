@@ -1,12 +1,12 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-10-21 21:29:48.854183+00:00 UTC
+Last Updated: 2026-10-22 04:18:56.459202+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** : Malicious code in unicode-title-normalizer (npm)
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
