@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-10-24 15:45:03.194757+00:00 UTC
+Last Updated: 2026-10-24 20:33:06.544658+00:00 UTC
 
 ## Latest CVEs
 
@@ -8,12 +8,12 @@ Last Updated: 2026-10-24 15:45:03.194757+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** : Important: glycin-loaders security update
+- **Unknown CVE** : Critical: ca-certificates security update
+- **Unknown CVE** : Important: lrzsz security, bug fix, and enhancement update
+- **Unknown CVE** : Important: bubblewrap security update
+- **Unknown CVE** : Important: rpcbind security update
+- **Unknown CVE** : Moderate: environment-modules security update
 
 ## Latest Cybersecurity News
 
