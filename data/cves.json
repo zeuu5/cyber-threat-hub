@@ -9,7 +9,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Malicious code in ionic-insta-api-wrapper (npm)"
     },
     {
         "id": "Unknown CVE",
@@ -17,26 +17,26 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: glycin-loaders security update"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Critical: ca-certificates security update"
+        "summary": "Malicious code in insta-api-wrapper (npm)"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: lrzsz security, bug fix, and enhancement update"
+        "summary": "Malicious code in youtube-info-streams (npm)"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: bubblewrap security update"
+        "summary": "Malicious code in tiktok-video-scraper (npm)"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: rpcbind security update"
+        "summary": "Malicious code in sound-cloud-loader-api (npm)"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Moderate: environment-modules security update"
+        "summary": "Malicious code in ionic-tiktok-scraper (npm)"
     }
 ]
