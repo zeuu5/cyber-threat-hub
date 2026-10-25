@@ -1,19 +1,19 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-10-25 11:08:02.499050+00:00 UTC
+Last Updated: 2026-10-25 15:56:17.916149+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Malicious code in ionic-insta-api-wrapper (npm)
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Malicious code in insta-api-wrapper (npm)
-- **Unknown CVE** : Malicious code in youtube-info-streams (npm)
-- **Unknown CVE** : Malicious code in tiktok-video-scraper (npm)
-- **Unknown CVE** : Malicious code in sound-cloud-loader-api (npm)
-- **Unknown CVE** : Malicious code in ionic-tiktok-scraper (npm)
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 

@@ -9,7 +9,11 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in ionic-insta-api-wrapper (npm)"
+        "summary": "No summary available"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
@@ -21,22 +25,18 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in insta-api-wrapper (npm)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in youtube-info-streams (npm)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in tiktok-video-scraper (npm)"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in sound-cloud-loader-api (npm)"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "Malicious code in ionic-tiktok-scraper (npm)"
+        "summary": "No summary available"
     }
 ]
