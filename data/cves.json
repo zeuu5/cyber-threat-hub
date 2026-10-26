@@ -9,7 +9,11 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Malicious code in dsh-plugin-blender-3d (npm)"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "Malicious code in @walknpm/todo-cli (npm)"
     },
     {
         "id": "Unknown CVE",
@@ -21,11 +25,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Malicious code in dictmerge-lite (PyPI)"
     },
     {
         "id": "Unknown CVE",

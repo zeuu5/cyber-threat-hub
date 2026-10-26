@@ -1,16 +1,16 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-10-25 20:41:11.183704+00:00 UTC
+Last Updated: 2026-10-26 04:20:25.521351+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
+- **Unknown CVE** : Malicious code in dsh-plugin-blender-3d (npm)
+- **Unknown CVE** : Malicious code in @walknpm/todo-cli (npm)
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** : Malicious code in dictmerge-lite (PyPI)
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
