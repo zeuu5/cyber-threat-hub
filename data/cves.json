@@ -17,7 +17,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Malicious code in 6161test1234 (npm)"
     },
     {
         "id": "Unknown CVE",
@@ -29,7 +29,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "imgaug contains an insecure deserialization vulnerability in BackgroundAugmenter class within multicore.py module"
     },
     {
         "id": "Unknown CVE",
