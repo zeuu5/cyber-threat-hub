@@ -9,7 +9,15 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-buffer-overflow in dwg_encode_VERTEX_2D"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "Segv on unknown address in bit_write_TV"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "Heap-buffer-overflow in dwg_decode_INSERT_private"
     },
     {
         "id": "Unknown CVE",
@@ -17,15 +25,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Malicious code in ssite-mock-server (npm)"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "Malicious code in @sxm-content-creators/tools-ds (npm)"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "Malicious code in @pcb-dp/qa-commons (npm)"
+        "summary": "Heap-double-free in dwg_free"
     },
     {
         "id": "Unknown CVE",
@@ -33,7 +33,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Heap-buffer-overflow in dwg_convert_SAB_to_SAT1"
     },
     {
         "id": "Unknown CVE",

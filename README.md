@@ -1,27 +1,27 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-11-02 05:36:56.765412+00:00 UTC
+Last Updated: 2026-11-02 15:26:59.019408+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
+- **Unknown CVE** : Heap-buffer-overflow in dwg_encode_VERTEX_2D
+- **Unknown CVE** : Segv on unknown address in bit_write_TV
+- **Unknown CVE** : Heap-buffer-overflow in dwg_decode_INSERT_private
 - **Unknown CVE** : No summary available
+- **Unknown CVE** : Heap-double-free in dwg_free
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Malicious code in ssite-mock-server (npm)
-- **Unknown CVE** : Malicious code in @sxm-content-creators/tools-ds (npm)
-- **Unknown CVE** : Malicious code in @pcb-dp/qa-commons (npm)
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** : Heap-buffer-overflow in dwg_convert_SAB_to_SAT1
 - **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 
-- [CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key](https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html)
-- [Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script](https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html)
-- [FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist](https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html)
-- [NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection](https://thehackernews.com/2026/11/netamloader-malware-targets-government.html)
-- [Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html)
+- [DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment](https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html)
+- [Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers](https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html)
+- [Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy](https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html)
+- [Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data](https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html)
+- [Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts](https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html)
 
 ---
 
