@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-11-01 21:55:11.999555+00:00 UTC
+Last Updated: 2026-11-02 05:36:56.765412+00:00 UTC
 
 ## Latest CVEs
 
@@ -8,9 +8,9 @@ Last Updated: 2026-11-01 21:55:11.999555+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** : Malicious code in ssite-mock-server (npm)
+- **Unknown CVE** : Malicious code in @sxm-content-creators/tools-ds (npm)
+- **Unknown CVE** : Malicious code in @pcb-dp/qa-commons (npm)
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
