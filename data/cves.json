@@ -9,34 +9,34 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: kernel security, bug fix, and enhancement update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: kernel security, bug fix, and enhancement update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: python-urllib3 security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Moderate: cockpit-files security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: delve security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: kernel security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: tesseract security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: dpdk security update"
     }
 ]
