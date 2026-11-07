@@ -1,19 +1,19 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-11-07 12:47:51.256189+00:00 UTC
+Last Updated: 2026-11-07 21:40:49.771934+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Important: kernel security, bug fix, and enhancement update
-- **Unknown CVE** : Important: kernel security, bug fix, and enhancement update
-- **Unknown CVE** : Important: python-urllib3 security update
-- **Unknown CVE** : Moderate: cockpit-files security update
-- **Unknown CVE** : Important: delve security update
-- **Unknown CVE** : Important: kernel security update
-- **Unknown CVE** : Important: tesseract security update
-- **Unknown CVE** : Important: dpdk security update
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : Malicious code in qzc690385 (PyPI)
+- **Unknown CVE** : Malicious code in qzc690384 (PyPI)
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : Malicious code in gcp-log-poc (PyPI)
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 

@@ -9,34 +9,34 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: kernel security, bug fix, and enhancement update"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: kernel security, bug fix, and enhancement update"
+        "summary": "Malicious code in qzc690385 (PyPI)"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: python-urllib3 security update"
+        "summary": "Malicious code in qzc690384 (PyPI)"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Moderate: cockpit-files security update"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: delve security update"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: kernel security update"
+        "summary": "Malicious code in gcp-log-poc (PyPI)"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: tesseract security update"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: dpdk security update"
+        "summary": "No summary available"
     }
 ]
