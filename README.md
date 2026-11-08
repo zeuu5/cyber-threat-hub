@@ -1,17 +1,17 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-11-07 21:40:49.771934+00:00 UTC
+Last Updated: 2026-11-08 05:39:57.658230+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Malicious code in qzc690385 (PyPI)
-- **Unknown CVE** : Malicious code in qzc690384 (PyPI)
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Malicious code in gcp-log-poc (PyPI)
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 
