@@ -9,34 +9,34 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: python-urllib3 security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: cockpit security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Moderate: ruby security, bug fix, and enhancement update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: nodejs-nodemon security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Critical: edk2 security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Moderate: ruby4.0 security, bug fix, and enhancement update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: curl security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: nodejs22 security update"
     }
 ]
