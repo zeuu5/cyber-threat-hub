@@ -1,27 +1,27 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-11-12 14:57:57.109300+00:00 UTC
+Last Updated: 2026-11-12 23:26:49.536316+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Index-out-of-bounds in gf_vvc_parse_nalu_bs
-- **Unknown CVE** : Heap-buffer-overflow in bit_read_BB
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Heap-buffer-overflow in dynapi_set_helper
-- **Unknown CVE** : Heap-buffer-overflow in ZSTD_decompressMultiFrame
-- **Unknown CVE** : Heap-double-free in dwg_free_common_entity_data
-- **Unknown CVE** : Heap-buffer-overflow in ZSTD_decompressSequencesLong_bmi2
-- **Unknown CVE** : Heap-buffer-overflow in inflate
+- **Unknown CVE** : Addressable URI normalization resolves some dotted path segments to the wrong path
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : basic-ftp: Uncaught exception crashes the Node.js process when a password (or resumed-download path) contains CR/LF
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 
-- [Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs](https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html)
 - [Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them](https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html)
-- [New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access](https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html)
-- [Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign](https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html)
-- [PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution](https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html)
+- [ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories](https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html)
+- [New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access](https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html)
+- [Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry](https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html)
+- [Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass](https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html)
 
 ---
 

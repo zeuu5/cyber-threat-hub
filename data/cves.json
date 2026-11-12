@@ -9,11 +9,11 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Index-out-of-bounds in gf_vvc_parse_nalu_bs"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-buffer-overflow in bit_read_BB"
+        "summary": "Addressable URI normalization resolves some dotted path segments to the wrong path"
     },
     {
         "id": "Unknown CVE",
@@ -21,22 +21,22 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-buffer-overflow in dynapi_set_helper"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-buffer-overflow in ZSTD_decompressMultiFrame"
+        "summary": "basic-ftp: Uncaught exception crashes the Node.js process when a password (or resumed-download path) contains CR/LF"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-double-free in dwg_free_common_entity_data"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-buffer-overflow in ZSTD_decompressSequencesLong_bmi2"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Heap-buffer-overflow in inflate"
+        "summary": "No summary available"
     }
 ]
