@@ -9,34 +9,34 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: python-urllib3 security update"
+        "summary": "Index-out-of-bounds in gf_vvc_parse_nalu_bs"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: cockpit security update"
+        "summary": "Heap-buffer-overflow in bit_read_BB"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Moderate: ruby security, bug fix, and enhancement update"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: nodejs-nodemon security update"
+        "summary": "Heap-buffer-overflow in dynapi_set_helper"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Critical: edk2 security update"
+        "summary": "Heap-buffer-overflow in ZSTD_decompressMultiFrame"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Moderate: ruby4.0 security, bug fix, and enhancement update"
+        "summary": "Heap-double-free in dwg_free_common_entity_data"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: curl security update"
+        "summary": "Heap-buffer-overflow in ZSTD_decompressSequencesLong_bmi2"
     },
     {
         "id": "Unknown CVE",
-        "summary": "Important: nodejs22 security update"
+        "summary": "Heap-buffer-overflow in inflate"
     }
 ]
