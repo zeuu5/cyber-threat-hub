@@ -13,7 +13,11 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "Addressable URI normalization resolves some dotted path segments to the wrong path"
+        "summary": "No summary available"
+    },
+    {
+        "id": "Unknown CVE",
+        "summary": "Malicious code in 0sec-cli (npm)"
     },
     {
         "id": "Unknown CVE",
@@ -22,10 +26,6 @@
     {
         "id": "Unknown CVE",
         "summary": "No summary available"
-    },
-    {
-        "id": "Unknown CVE",
-        "summary": "basic-ftp: Uncaught exception crashes the Node.js process when a password (or resumed-download path) contains CR/LF"
     },
     {
         "id": "Unknown CVE",
