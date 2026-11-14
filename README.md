@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-11-14 13:22:10.290493+00:00 UTC
+Last Updated: 2026-11-14 22:13:02.490873+00:00 UTC
 
 ## Latest CVEs
 
@@ -10,10 +10,10 @@ Last Updated: 2026-11-14 13:22:10.290493+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
-- **Unknown CVE** : No summary available
+- **Unknown CVE** : Malicious code in tdesign-vue-mono (RubyGems)
+- **Unknown CVE** : Malicious code in qap793gl4l (PyPI)
+- **Unknown CVE** : Malicious code in ps-bool (PyPI)
+- **Unknown CVE** : Malicious code in axiom-dragon-xyz (PyPI)
 
 ## Latest Cybersecurity News
 
