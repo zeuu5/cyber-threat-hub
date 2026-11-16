@@ -29,7 +29,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "llama-index-core Command Injection vulnerability"
     },
     {
         "id": "Unknown CVE",
@@ -37,6 +37,6 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "litellm vulnerable to remote code execution based on using eval unsafely"
     }
 ]
