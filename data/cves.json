@@ -9,7 +9,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Malicious code in dsh-vm-tester (npm)"
     },
     {
         "id": "Unknown CVE",
@@ -29,7 +29,7 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "llama-index-core Command Injection vulnerability"
+        "summary": "No summary available"
     },
     {
         "id": "Unknown CVE",
@@ -37,6 +37,6 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "litellm vulnerable to remote code execution based on using eval unsafely"
+        "summary": "No summary available"
     }
 ]
