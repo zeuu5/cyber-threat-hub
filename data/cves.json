@@ -9,34 +9,34 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: glycin-loaders security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: glib-networking security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Moderate: environment-modules security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: sos security, bug fix, and enhancement update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: subscription-manager-cockpit security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: libpcap security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: jq security update"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "Important: aspell security update"
     }
 ]
