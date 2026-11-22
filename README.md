@@ -1,19 +1,19 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-11-22 06:15:42.754570+00:00 UTC
+Last Updated: 2026-11-22 19:22:45.998028+00:00 UTC
 
 ## Latest CVEs
 
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : Previously, a channel registered in the mux's chanList is not usable until it is established. A malicious peer was able…
-- **Unknown CVE** : Previously, after a channel has been established, a malicious peer could send crafted messages that would deadlock the…
-- **Unknown CVE** : compress provides various compression algorithms. Prior to 1.20.2, the zstd DecodeAll and streaming decoder paths can…
-- **Unknown CVE** : Atlantis is a self-hosted golang application that listens for Terraform pull request events via webhooks. All versions…
-- **Unknown CVE** : Atlantis is a self-hosted golang application that listens for Terraform pull request events via webhooks. From version…
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : The golang.org/x/crypto/openpgp package is unsafe by design, has numerous known security issues, is not maintained, and…
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
+- **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 
