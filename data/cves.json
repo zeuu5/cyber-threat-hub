@@ -33,10 +33,10 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "The golang.org/x/crypto/openpgp package is unsafe by design, has numerous known security issues, is not maintained, and\u2026"
     },
     {
         "id": "Unknown CVE",
-        "summary": "No summary available"
+        "summary": "An integer overflow in the BSON document encoding component of the MongoDB Python Driver's bundled native extension may\u2026"
     }
 ]
