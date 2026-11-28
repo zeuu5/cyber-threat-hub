@@ -1,6 +1,6 @@
 # Cyber Threat Hub
 
-Last Updated: 2026-11-27 20:59:05.435537+00:00 UTC
+Last Updated: 2026-11-28 07:23:51.029952+00:00 UTC
 
 ## Latest CVEs
 
@@ -13,7 +13,7 @@ Last Updated: 2026-11-27 20:59:05.435537+00:00 UTC
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
 - **Unknown CVE** : No summary available
-- **Unknown CVE** : When a server is configured to support unencrypted HTTP/2, it reads a few bytes from each new connection to see if they…
+- **Unknown CVE** : No summary available
 
 ## Latest Cybersecurity News
 

@@ -37,6 +37,6 @@
     },
     {
         "id": "Unknown CVE",
-        "summary": "When a server is configured to support unencrypted HTTP/2, it reads a few bytes from each new connection to see if they\u2026"
+        "summary": "No summary available"
     }
 ]
